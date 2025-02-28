@@ -1,5 +1,10 @@
 #include <iostream>
 
+void print()
+{
+    std::cout << "Привет";
+}
+
 int main()
 {
     //sdfggfd
