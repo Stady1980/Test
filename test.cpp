@@ -4,6 +4,7 @@ void print()
 {
     std::cout << "Привет";
     //fgfgfgdfg
+    //fgfgdf
 }
 
 int main()
