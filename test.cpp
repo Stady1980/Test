@@ -3,6 +3,7 @@
 void print()
 {
     std::cout << "Привет";
+    //fgfgfgdfg
 }
 
 int main()
